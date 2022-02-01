@@ -1,0 +1,7 @@
+{
+    "centos-6-checksum": "5350c20875a3fec28157abbc7db5dc635911212804f892b751f94fcf3f285aec",
+    "centos-7-checksum": "1db30c9c272fb37b00111b93dcebff16c278384755bdbe158559e9c240b73b80",
+    "ubuntu-bionic-checksum": "66f5c336b54b668fe64cb42b3b2f794327d64a376c414944234be51d61edeeec",
+    "ubuntu-focal-checksum": "60c005e9648854b85eedbf2e3bbe6dad652dc32e988b25b52cbf9c4bd46c17bf",
+    "ubuntu-focal-ks-checksum": "f8e3086f3cea0fb3fefb29937ab5ed9d19e767079633960ccb50e76153effc98"
+}

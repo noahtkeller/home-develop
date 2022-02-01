@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="AWS Ubuntu Bionic AMD64 HTTPD" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile">
+    <makefile filename="$PROJECT_DIR$/Makefile" target="aws-ubuntu-amd64-httpd" workingDirectory="" arguments="ubuntu=bionic">
+      <envs>
+        <env name="AWS_PROFILE" value="noahhome" />
+      </envs>
+    </makefile>
+    <method v="2" />
+  </configuration>
+</component>

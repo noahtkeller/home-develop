@@ -1,0 +1,15 @@
+[submodule "ansible"]
+	path = ansible
+	url = ssh://git@github.com/noahtkeller/home-ansible
+[submodule "noahtkeller.github.io"]
+	path = github-io
+	url = ssh://git@github.com/noahtkeller/noahtkeller.github.io
+[submodule "github-io"]
+	path = code/frontend/github-io
+	url = ssh://git@github.com/noahtkeller/github-io
+[submodule "node-common-strings"]
+	path = code/common/strings/build/nodejs
+	url = ssh://git@github.com/noahtkeller/node-common-strings
+[submodule "node-common-backend"]
+	path = code/backend/nodejs/common
+	url = ssh://git@github.com/noahtkeller/node-common-backend
