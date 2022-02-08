@@ -1,5 +1,6 @@
 # Main Repository
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/39a93283d66f421fb3b5109a83772119)](https://app.codacy.com/gh/noahtkeller/home-develop?utm_source=github.com&utm_medium=referral&utm_content=noahtkeller/home-develop&utm_campaign=Badge_Grade_Settings)
 [![Join the chat at https://gitter.im/noahtkeller/general](https://badges.gitter.im/noahtkeller/general.svg)](https://gitter.im/noahtkeller/general?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 This is the parent repository for my personal learning projects, the confluence of the different technologies
