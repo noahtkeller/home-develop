@@ -1,5 +1,7 @@
 # Main Repository
 
+[![Join the chat at https://gitter.im/noahtkeller/general](https://badges.gitter.im/noahtkeller/general.svg)](https://gitter.im/noahtkeller/general?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is the parent repository for my personal learning projects, the confluence of the different technologies
 used to power my website. The purposes of all of these repositories is for my to learn best practices, 
 sharpen my skills, to be a reference for future work, and to act as an evolving portfolio and résumé.
