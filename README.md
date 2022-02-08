@@ -1,5 +1,7 @@
 # Main Repository
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/39a93283d66f421fb3b5109a83772119)](https://app.codacy.com/gh/noahtkeller/home-develop?utm_source=github.com&utm_medium=referral&utm_content=noahtkeller/home-develop&utm_campaign=Badge_Grade_Settings)
+
 This is the parent repository for my personal learning projects, the confluence of the different technologies
 used to power my website. The purposes of all of these repositories is for my to learn best practices, 
 sharpen my skills, to be a reference for future work, and to act as an evolving portfolio and résumé.
